@@ -1,11 +1,13 @@
-# Enumerable
- Programming Language: Ruby
+# My_Enumerable
+In this project we learned how to use a module inside our class. For this we created a class MyList and a module MyEnumerable.  Module MyEnumerable will implement a subset of the functionality of Enumerable.
 
- Linter: Rubocop
+## Built With
 
- VS Code
+- [x] Programming Language: Ruby
+- [x] Linter: [Rubocop](https://rubocop.org/)
+- [x] VS Code
 
-Ruby
+- Ruby
 
 Getting Started
 To get a local copy up and running follow these simple example steps.
@@ -32,9 +34,12 @@ Authors
 - Twitter: [@twitterhandle](https://twitter.com/TamaraSiansanda)
 - LinkedIn: [LinkedIn](https://www.linkedin.com/in/tamara-siansanda/)
 
-GitHub: [@Stamleeeeee](https://github.com/Stanleeeeee)
-- Twitter: [@Stanmega89](https://twitter.com/Stanmega89)
-- LinkedIn: [stanley-ezeoke](https://linkedin.com/in/stanley-ezeoke)
+
+👤 **Ezeoke Stanley Ifeanyi**
+
+- GitHub: https://github.com/Stanleeeeee
+- Twitter: https://twitter.com/Stanmega89
+- LinkedIn: https://linkedin.com/in/stanley-ezeoke/
 
 🤝 Contributing
 Contributions, issues, and feature requests are welcome!!

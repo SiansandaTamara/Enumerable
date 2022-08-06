@@ -13,4 +13,3 @@ end
 
 list = MyList.new(1, 2, 3, 4)
 puts list.filter(&:even?)
-
